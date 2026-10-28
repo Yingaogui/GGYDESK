@@ -24,13 +24,13 @@ GGYDESK 把日常运维最常用的几类操作集中到一个桌面应用里，
 
 | 文件 | 说明 |
 |---|---|
-| `GGYDesk-Setup-1.9.6.exe` | Windows 安装包（x64，向导式安装） |
-| `SHA256SUMS-1.9.6.txt` | SHA256 校验和 |
+| `GGYDesk-Setup-1.9.8.exe` | Windows 安装包（x64，向导式安装） |
+| `SHA256SUMS-1.9.8.txt` | SHA256 校验和 |
 
 安装前可校验文件完整性：
 
 ```powershell
-Get-FileHash .\GGYDesk-Setup-1.9.6.exe -Algorithm SHA256
+Get-FileHash .\GGYDesk-Setup-1.9.8.exe -Algorithm SHA256
 ```
 
 ## 功能一览
